@@ -17,11 +17,11 @@ Facebook prophet to predict the Stock Prices in the future.
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
-⚡ select dataset for prediction
-⚡ select no. of years of prediction
-⚡ Raw data for analyzing
-⚡ Time series data with the range slider
-⚡ Forecasted data with the range slider
+⚡ select dataset for prediction/
+⚡ select no. of years of prediction/
+⚡ Raw data for analyzing/
+⚡ Time series data with the range slider/
+⚡ Forecasted data with the range slider/
 ⚡ Forcast Weekly, monthly, and yearly trends components graph
 
 ## Sections 📚

@@ -2,8 +2,8 @@
 This is Python Project, we can predict the Stock Price 
 of Companies listed on Yahoo Finance. 
 
-I have used Streamlit to create a web app &
-Yahoo Finance to get the Stock data &
+I have used Streamlit to create a web app\
+Yahoo Finance to get the Stock data\
 Facebook prophet to predict the Stock Prices in the future.
 
 ### WebApp Preview 

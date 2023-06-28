@@ -6,10 +6,6 @@ from prophet import Prophet
 from prophet.plot import plot_plotly
 from plotly import graph_objs as go
 
-headers = {
-	"authorization": st.secrets["eod_api"],
-	"authorization": st.secrets["secret_key"]}
-c = pyEX.Client(st.secrets["secret_key"])
 
 START = "2015-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
